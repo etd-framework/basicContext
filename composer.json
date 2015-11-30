@@ -1,0 +1,13 @@
+{
+  "name": "etdsolutions/basicContext",
+  "description": "Shim repository for basicContext",
+  "keywords": ["context","menu","popup","right-click"],
+  "authors": [
+    {
+      "name": "Tobias Reich",
+      "email": "tobias@electerious.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/electerious/basicContext"
+}
